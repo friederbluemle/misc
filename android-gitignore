@@ -7,7 +7,8 @@ local.properties
 
 # Android Studio generated folders
 captures/
-.externalNativeBuild
+.externalNativeBuild/
+.cxx/
 
 # IntelliJ project files
 *.iml
