@@ -1,6 +1,6 @@
 repos:
 -   repo: git://github.com/pre-commit/pre-commit-hooks
-    rev: 4195f4d271955e83e9d7d192f5a047c95eb6fb31
+    rev: 11a996eec600aa64d1cc12859d9bffbc6422836c
     hooks:
     -   id: trailing-whitespace
         types: [text]
