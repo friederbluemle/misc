@@ -1,0 +1,46 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\nunmap <a-f>\nunmap <c-e>\nunmap <c-y>\nunmap u\nunmap h\nunmap H\nunmap l\nunmap L\nmap u goBack\nmap h previousTab\nmap H scrollLeft\nmap l nextTab\nmap ' removeTab\nmap ; goForward\nmap L scrollRight\nmap 1 firstTab\nmap 2 previousTab\nmap 3 nextTab\nmap 4 lastTab\nmap 5 goBack\nmap 6 firstTab\nmap 7 previousTab\nmap 8 nextTab\nmap 9 lastTab",
+  "settingsVersion": "2.3",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://mail.google.com/*"
+    },
+    {
+      "passKeys": "t",
+      "pattern": "https?://github.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://play.decentraland.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://*quickconnect.to*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://*webman/3rdparty/Virtualization*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://*sdf.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https://ssh.sdf.org*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://photos.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://asciiflow.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://unifi.ui.com/*"
+    }
+  ]
+}
